@@ -1,0 +1,41 @@
+body{
+    background: #dcdcdc;
+    margin: 0;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+header{
+    background: white;
+    padding: 10px;
+}
+
+header h1{
+    margin: 0;
+}
+
+.post{
+    background: white;
+    margin-top: 10px;
+}
+
+.post img{
+    width: 100%;
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+.post h2, p{
+    padding: 10px;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
